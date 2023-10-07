@@ -1,0 +1,8 @@
+{
+    "RightsManagement": true,
+    "ContactUs": true,
+    "Media": true,
+    "Blog": true,
+    "Testimonial": true,
+    "PaymentIntegration": true
+}
