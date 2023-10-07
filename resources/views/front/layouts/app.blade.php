@@ -67,5 +67,6 @@
                 <div class="footer-right w-col w-col-6"></div>
             </div>
         </div>
+        @stack('script')
     </body>
 </html>
